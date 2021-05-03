@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/thals1214/movie-app-new/static/css/main.042e5788.chunk.css",
-    "main.js": "/thals1214/movie-app-new/static/js/main.42e19c73.chunk.js",
-    "main.js.map": "/thals1214/movie-app-new/static/js/main.42e19c73.chunk.js.map",
-    "runtime-main.js": "/thals1214/movie-app-new/static/js/runtime-main.2ad5a0bb.js",
-    "runtime-main.js.map": "/thals1214/movie-app-new/static/js/runtime-main.2ad5a0bb.js.map",
-    "static/js/2.d721cafb.chunk.js": "/thals1214/movie-app-new/static/js/2.d721cafb.chunk.js",
-    "static/js/2.d721cafb.chunk.js.map": "/thals1214/movie-app-new/static/js/2.d721cafb.chunk.js.map",
-    "index.html": "/thals1214/movie-app-new/index.html",
-    "static/css/main.042e5788.chunk.css.map": "/thals1214/movie-app-new/static/css/main.042e5788.chunk.css.map",
-    "static/js/2.d721cafb.chunk.js.LICENSE.txt": "/thals1214/movie-app-new/static/js/2.d721cafb.chunk.js.LICENSE.txt"
+    "main.css": "/movie-app-new/static/css/main.042e5788.chunk.css",
+    "main.js": "/movie-app-new/static/js/main.42e19c73.chunk.js",
+    "main.js.map": "/movie-app-new/static/js/main.42e19c73.chunk.js.map",
+    "runtime-main.js": "/movie-app-new/static/js/runtime-main.c059f8b2.js",
+    "runtime-main.js.map": "/movie-app-new/static/js/runtime-main.c059f8b2.js.map",
+    "static/js/2.d721cafb.chunk.js": "/movie-app-new/static/js/2.d721cafb.chunk.js",
+    "static/js/2.d721cafb.chunk.js.map": "/movie-app-new/static/js/2.d721cafb.chunk.js.map",
+    "index.html": "/movie-app-new/index.html",
+    "static/css/main.042e5788.chunk.css.map": "/movie-app-new/static/css/main.042e5788.chunk.css.map",
+    "static/js/2.d721cafb.chunk.js.LICENSE.txt": "/movie-app-new/static/js/2.d721cafb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ad5a0bb.js",
+    "static/js/runtime-main.c059f8b2.js",
     "static/js/2.d721cafb.chunk.js",
     "static/css/main.042e5788.chunk.css",
     "static/js/main.42e19c73.chunk.js"
